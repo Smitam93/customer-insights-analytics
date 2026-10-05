@@ -1,0 +1,80 @@
+{
+  "topic": {
+    "applications": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 94.0
+    },
+    "fees": {
+      "precision": 0.47029702970297027,
+      "recall": 1.0,
+      "f1-score": 0.6397306397306397,
+      "support": 95.0
+    },
+    "login": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 101.0
+    },
+    "payments": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 107.0
+    },
+    "support": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 90.0
+    },
+    "accuracy": 0.7802874743326489,
+    "macro avg": {
+      "precision": 0.694059405940594,
+      "recall": 0.8,
+      "f1-score": 0.7279461279461279,
+      "support": 487.0
+    },
+    "weighted avg": {
+      "precision": 0.6769573261227559,
+      "recall": 0.7802874743326489,
+      "f1-score": 0.7100090570316442,
+      "support": 487.0
+    }
+  },
+  "sentiment": {
+    "negative": {
+      "precision": 0.6351791530944625,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.7208872458410351,
+      "support": 234.0
+    },
+    "neutral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 112.0
+    },
+    "positive": {
+      "precision": 0.7833333333333333,
+      "recall": 1.0,
+      "f1-score": 0.8785046728971962,
+      "support": 141.0
+    },
+    "accuracy": 0.6899383983572895,
+    "macro avg": {
+      "precision": 0.47283749547593196,
+      "recall": 0.6111111111111112,
+      "f1-score": 0.5331306395794105,
+      "support": 487.0
+    },
+    "weighted avg": {
+      "precision": 0.5319957326983659,
+      "recall": 0.6899383983572895,
+      "f1-score": 0.6007325963147986,
+      "support": 487.0
+    }
+  }
+}

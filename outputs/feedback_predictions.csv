@@ -1,0 +1,488 @@
+feedback_id,text,channel,topic_label,sentiment_label,predicted_topic,topic_confidence,predicted_sentiment,sentiment_confidence,needs_review,priority
+F00001,"In my experience, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8470296519457939,negative,0.46483870641447067,True,review
+F00002,"In my experience, Contacting customer support worked well and satisfied me.",review,support,positive,support,0.5682832240358957,positive,0.6400409263248619,True,review
+F00006,"In my experience, A payment through the service requires clarification from someone. Thank you.",review,payments,neutral,fees,0.4897027454774147,negative,0.3992069050723156,True,review
+F00007,"In my experience, A payment through the service requires clarification from someone.",social,payments,neutral,fees,0.5270060562014728,negative,0.3830421983823373,True,review
+F00011,"Recently, Signing in with my login worked well and satisfied me.",chat,login,positive,login,0.6021328943781852,positive,0.6177294387106053,True,review
+F00013,"In my experience, Paying this service fee worked well and satisfied me.",social,fees,positive,fees,0.8648698632723127,positive,0.5536439548012309,True,review
+F00021,"Today, Submitting a loan application requires clarification from someone. Please review.",review,applications,neutral,applications,0.925567679412447,negative,0.4038553681566197,True,review
+F00023,"In my experience, Submitting a loan application was terrible and caused trouble.",chat,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F00026,"In my experience, Signing in with my login was terrible and caused trouble.",review,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F00028,"Today, Paying this service fee was terrible and caused trouble. Please review.",social,fees,negative,fees,0.9117079899270792,negative,0.4952693914646045,True,review
+F00029,"Today, Signing in with my login worked well and satisfied me. Please review.",chat,login,positive,login,0.5155846508297464,positive,0.47745210207179417,True,review
+F00034,"In my experience, Signing in with my login was terrible and caused trouble. Please review.",review,login,negative,login,0.5288691966997205,negative,0.45492971216756917,True,review
+F00036,"In my experience, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F00037,"Recently, Contacting customer support was terrible and caused trouble. Please review.",social,support,negative,support,0.6351210693326569,positive,0.5044122303012907,True,review
+F00040,"Recently, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8962947340404134,negative,0.4735720108324755,True,review
+F00041,"In my experience, Signing in with my login worked well and satisfied me.",review,login,positive,login,0.5307003580945769,positive,0.553102731405979,True,review
+F00043,"Today, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6800500846166969,positive,0.4867761245060112,True,review
+F00044,"Today, Signing in with my login worked well and satisfied me.",social,login,positive,login,0.5913912254091446,positive,0.6017160926799492,True,review
+F00045,"Recently, Signing in with my login requires clarification from someone.",chat,login,neutral,login,0.6850129595590008,negative,0.38185074556329124,True,review
+F00046,"In my experience, Contacting customer support requires clarification from someone.",review,support,neutral,support,0.6896856322876432,negative,0.370321407499721,True,review
+F00047,"Recently, Signing in with my login requires clarification from someone.",social,login,neutral,login,0.6850129595590008,negative,0.38185074556329124,True,review
+F00055,"Today, Signing in with my login requires clarification from someone. Thank you.",chat,login,neutral,login,0.6253281731755183,negative,0.4060184264917051,True,review
+F00056,"Today, Submitting a loan application requires clarification from someone. Please review.",review,applications,neutral,applications,0.925567679412447,negative,0.4038553681566197,True,review
+F00057,"In my experience, Submitting a loan application worked well and satisfied me. Thank you.",social,applications,positive,applications,0.7782609596535587,positive,0.4444097059926888,True,review
+F00063,"Today, Paying this service fee was terrible and caused trouble.",review,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F00064,"Today, Contacting customer support worked well and satisfied me.",review,support,positive,support,0.6561130647490064,positive,0.7029543743659086,False,review
+F00065,"Today, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F00071,"Recently, Contacting customer support worked well and satisfied me. Thank you.",social,support,positive,support,0.5547497075827965,positive,0.5260637264411976,True,review
+F00073,"In my experience, Paying this service fee was terrible and caused trouble.",review,fees,negative,fees,0.9092047962275618,negative,0.4601472340224886,True,review
+F00078,"Today, Submitting a loan application worked well and satisfied me. Thank you.",review,applications,positive,applications,0.8232034387376733,positive,0.45371525974115795,True,review
+F00079,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F00080,"Recently, Contacting customer support worked well and satisfied me. Thank you.",review,support,positive,support,0.5547497075827965,positive,0.5260637264411976,True,review
+F00081,"In my experience, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.5451842570523476,negative,0.4526217602131132,True,review
+F00084,"Recently, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6785368821202092,positive,0.5051749120276587,True,review
+F00085,"In my experience, Submitting a loan application worked well and satisfied me.",chat,applications,positive,applications,0.8628790005748785,positive,0.5447348391358497,True,review
+F00088,"Recently, Signing in with my login requires clarification from someone.",social,login,neutral,login,0.6850129595590008,negative,0.38185074556329124,True,review
+F00091,"Today, Paying this service fee requires clarification from someone. Thank you.",review,fees,neutral,fees,0.9324568636629563,negative,0.4029321885172946,True,review
+F00095,"In my experience, Contacting customer support requires clarification from someone. Thank you.",review,support,neutral,support,0.6121011566860018,negative,0.3909706432749172,True,review
+F00102,"Today, A payment through the service worked well and satisfied me. Please review.",social,payments,positive,fees,0.4354122237050607,positive,0.441141118951152,True,review
+F00109,"Today, A payment through the service worked well and satisfied me. Please review.",chat,payments,positive,fees,0.4354122237050607,positive,0.441141118951152,True,review
+F00112,"Today, Contacting customer support was terrible and caused trouble. Please review.",chat,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F00128,"Today, A payment through the service requires clarification from someone. Please review.",review,payments,neutral,fees,0.5158994994567684,negative,0.41884044335168774,True,review
+F00134,"In my experience, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.8647627667593383,negative,0.4737468484405422,True,review
+F00136,"In my experience, Signing in with my login requires clarification from someone.",review,login,neutral,login,0.5784912601447446,negative,0.3730592613240129,True,review
+F00138,"Recently, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.9116990681818459,negative,0.4845530687999165,True,review
+F00143,"Recently, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.9185298608850226,negative,0.48202232224086566,True,review
+F00152,"Today, A payment through the service worked well and satisfied me.",chat,payments,positive,fees,0.5173105121472976,positive,0.5664252900535421,True,review
+F00156,"Recently, Paying this service fee worked well and satisfied me. Please review.",chat,fees,positive,fees,0.8258051488797927,positive,0.46955844506423455,True,review
+F00157,"Today, Signing in with my login was terrible and caused trouble.",chat,login,negative,login,0.6534547088896511,negative,0.4653005873841206,True,review
+F00158,"Recently, A payment through the service was terrible and caused trouble. Thank you.",review,payments,negative,fees,0.6436129535181419,negative,0.4987792449711818,True,review
+F00160,"Recently, Submitting a loan application was terrible and caused trouble.",chat,applications,negative,applications,0.9447025013994593,negative,0.4617680722793572,True,review
+F00163,"In my experience, Submitting a loan application was terrible and caused trouble. Please review.",social,applications,negative,applications,0.8701807183473401,negative,0.4673690389845469,True,review
+F00164,"In my experience, A payment through the service was terrible and caused trouble. Please review.",social,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F00166,"Today, A payment through the service worked well and satisfied me. Thank you.",review,payments,positive,fees,0.4401405117929233,positive,0.44253415716901934,True,review
+F00168,"In my experience, Contacting customer support was terrible and caused trouble.",chat,support,negative,support,0.6584348293274044,positive,0.5046055104851151,True,review
+F00175,"Today, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.9186448111119262,negative,0.4927341872354239,True,review
+F00177,"In my experience, Contacting customer support requires clarification from someone.",social,support,neutral,support,0.6896856322876432,negative,0.370321407499721,True,review
+F00181,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",social,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F00187,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F00191,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F00195,"Recently, Signing in with my login worked well and satisfied me. Please review.",review,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F00197,"In my experience, Signing in with my login worked well and satisfied me. Thank you.",chat,login,positive,login,0.4840395466178386,positive,0.45940776203257755,True,review
+F00199,"In my experience, A payment through the service requires clarification from someone. Please review.",review,payments,neutral,fees,0.46843817165819174,negative,0.403278153119701,True,review
+F00208,"Today, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.9186448111119262,negative,0.4927341872354239,True,review
+F00217,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F00218,"In my experience, Paying this service fee worked well and satisfied me. Thank you.",chat,fees,positive,fees,0.7816139413199801,positive,0.4463879942279137,True,review
+F00222,"Today, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F00223,"In my experience, Submitting a loan application worked well and satisfied me. Please review.",social,applications,positive,applications,0.8035739070532957,positive,0.44340667127432826,True,review
+F00237,"Recently, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.6212638475107419,negative,0.46702075831669965,True,review
+F00239,"Today, Paying this service fee was terrible and caused trouble.",review,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F00249,"Recently, Contacting customer support worked well and satisfied me. Thank you.",review,support,positive,support,0.5547497075827965,positive,0.5260637264411976,True,review
+F00252,"In my experience, Submitting a loan application requires clarification from someone. Please review.",social,applications,neutral,applications,0.8814300866364724,negative,0.3913642832985181,True,review
+F00256,"Today, Submitting a loan application worked well and satisfied me. Thank you.",review,applications,positive,applications,0.8232034387376733,positive,0.45371525974115795,True,review
+F00259,"Today, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F00260,"Today, A payment through the service worked well and satisfied me.",chat,payments,positive,fees,0.5173105121472976,positive,0.5664252900535421,True,review
+F00268,"In my experience, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.8647627667593383,negative,0.4737468484405422,True,review
+F00278,"Recently, Signing in with my login worked well and satisfied me. Please review.",review,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F00284,"In my experience, Signing in with my login worked well and satisfied me.",chat,login,positive,login,0.5307003580945769,positive,0.553102731405979,True,review
+F00287,"Recently, Signing in with my login worked well and satisfied me. Thank you.",chat,login,positive,login,0.5284369236145424,positive,0.492823811217711,True,review
+F00288,"In my experience, Contacting customer support worked well and satisfied me. Thank you.",social,support,positive,support,0.5119467664605418,positive,0.4903553087514546,True,review
+F00293,"In my experience, Signing in with my login requires clarification from someone.",review,login,neutral,login,0.5784912601447446,negative,0.3730592613240129,True,review
+F00303,"In my experience, Contacting customer support worked well and satisfied me. Please review.",social,support,positive,support,0.4458786919152371,positive,0.48862400449238796,True,review
+F00305,"Recently, Submitting a loan application was terrible and caused trouble. Thank you.",review,applications,negative,applications,0.8962947340404134,negative,0.4735720108324755,True,review
+F00308,"In my experience, A payment through the service worked well and satisfied me.",review,payments,positive,fees,0.47129736116229887,positive,0.5380092310919553,True,review
+F00311,"In my experience, Submitting a loan application was terrible and caused trouble.",review,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F00312,"In my experience, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.8647627667593383,negative,0.4737468484405422,True,review
+F00313,"Today, Contacting customer support worked well and satisfied me. Please review.",review,support,positive,support,0.4812550967701555,positive,0.5065030728773222,True,review
+F00322,"Recently, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.6212638475107419,negative,0.46702075831669965,True,review
+F00328,"Recently, Signing in with my login worked well and satisfied me. Please review.",chat,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F00330,"Recently, A payment through the service was terrible and caused trouble. Thank you.",social,payments,negative,fees,0.6436129535181419,negative,0.4987792449711818,True,review
+F00333,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F00342,"Today, A payment through the service requires clarification from someone.",social,payments,neutral,fees,0.5971442825684715,negative,0.3988642904932293,True,review
+F00344,"Today, Contacting customer support requires clarification from someone.",social,support,neutral,support,0.879601618772745,negative,0.40140927906798224,True,review
+F00345,"In my experience, Signing in with my login was terrible and caused trouble.",review,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F00348,"Today, Paying this service fee worked well and satisfied me. Please review.",social,fees,positive,fees,0.8258906970027773,positive,0.4551529450909395,True,review
+F00354,"Today, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F00359,"In my experience, Contacting customer support was terrible and caused trouble.",social,support,negative,support,0.6584348293274044,positive,0.5046055104851151,True,review
+F00365,"Today, Contacting customer support requires clarification from someone. Please review.",chat,support,neutral,support,0.6627355123569512,negative,0.4205043372763133,True,review
+F00369,"Recently, Submitting a loan application was terrible and caused trouble.",review,applications,negative,applications,0.9447025013994593,negative,0.4617680722793572,True,review
+F00371,"Recently, Signing in with my login worked well and satisfied me. Please review.",chat,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F00381,"Today, Signing in with my login requires clarification from someone.",review,login,neutral,login,0.6732992862620112,negative,0.38966458875748616,True,review
+F00382,"In my experience, Submitting a loan application requires clarification from someone.",social,applications,neutral,applications,0.9127306969822839,negative,0.370879840350392,True,review
+F00383,"Today, A payment through the service requires clarification from someone.",review,payments,neutral,fees,0.5971442825684715,negative,0.3988642904932293,True,review
+F00388,"Recently, Contacting customer support was terrible and caused trouble. Thank you.",review,support,negative,support,0.6785368821202092,positive,0.5051749120276587,True,review
+F00392,"Recently, Paying this service fee requires clarification from someone. Please review.",chat,fees,neutral,fees,0.9261353739670174,negative,0.4013952169815561,True,review
+F00394,"Recently, Submitting a loan application worked well and satisfied me. Thank you.",social,applications,positive,applications,0.8219817650165727,positive,0.46757134624578345,True,review
+F00400,"Today, Submitting a loan application was terrible and caused trouble. Please review.",review,applications,negative,applications,0.9149562397566521,negative,0.4859845963870366,True,review
+F00401,"Today, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F00408,"In my experience, Signing in with my login worked well and satisfied me. Thank you.",review,login,positive,login,0.4840395466178386,positive,0.45940776203257755,True,review
+F00412,"Recently, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.9116990681818459,negative,0.4845530687999165,True,review
+F00413,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F00418,"Today, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6800500846166969,positive,0.4867761245060112,True,review
+F00420,"Today, Signing in with my login was terrible and caused trouble. Please review.",social,login,negative,login,0.5924428475575672,negative,0.4800878624626502,True,review
+F00422,"In my experience, A payment through the service worked well and satisfied me.",review,payments,positive,fees,0.47129736116229887,positive,0.5380092310919553,True,review
+F00425,"Today, Signing in with my login was terrible and caused trouble. Thank you.",chat,login,negative,login,0.6104683426545368,negative,0.4777395460766004,True,review
+F00427,"Today, A payment through the service requires clarification from someone. Please review.",review,payments,neutral,fees,0.5158994994567684,negative,0.41884044335168774,True,review
+F00431,"In my experience, Paying this service fee requires clarification from someone. Please review.",review,fees,neutral,fees,0.8802564359433526,negative,0.3932536458364434,True,review
+F00433,"Today, A payment through the service worked well and satisfied me. Please review.",chat,payments,positive,fees,0.4354122237050607,positive,0.441141118951152,True,review
+F00438,"In my experience, Paying this service fee was terrible and caused trouble.",review,fees,negative,fees,0.9092047962275618,negative,0.4601472340224886,True,review
+F00440,"Today, Contacting customer support worked well and satisfied me. Thank you.",social,support,positive,support,0.556343267479736,positive,0.5088753955706392,True,review
+F00449,"Today, Paying this service fee requires clarification from someone. Please review.",chat,fees,neutral,fees,0.9261430497560866,negative,0.40747128515487796,True,review
+F00452,"Recently, Paying this service fee worked well and satisfied me. Thank you.",chat,fees,positive,fees,0.8239959035251212,positive,0.4710480667730606,True,review
+F00453,"In my experience, Signing in with my login was terrible and caused trouble. Thank you.",social,login,negative,login,0.5451842570523476,negative,0.4526217602131132,True,review
+F00454,"In my experience, Paying this service fee worked well and satisfied me.",review,fees,positive,fees,0.8648698632723127,positive,0.5536439548012309,True,review
+F00455,"In my experience, Signing in with my login was terrible and caused trouble.",chat,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F00456,"Recently, Contacting customer support worked well and satisfied me. Please review.",review,support,positive,support,0.4799822166630108,positive,0.5236075844410345,True,review
+F00465,"Today, Submitting a loan application was terrible and caused trouble.",social,applications,negative,applications,0.9452784357301838,negative,0.4735255952998774,True,review
+F00475,"Today, Paying this service fee was terrible and caused trouble.",social,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F00478,"In my experience, Signing in with my login requires clarification from someone. Thank you.",chat,login,neutral,login,0.5542784670109344,negative,0.38856938950310926,True,review
+F00481,"In my experience, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F00484,"Recently, A payment through the service was terrible and caused trouble. Thank you.",review,payments,negative,fees,0.6436129535181419,negative,0.4987792449711818,True,review
+F00485,"In my experience, A payment through the service was terrible and caused trouble. Please review.",review,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F00486,"Today, A payment through the service worked well and satisfied me.",social,payments,positive,fees,0.5173105121472976,positive,0.5664252900535421,True,review
+F00487,"Recently, Signing in with my login requires clarification from someone. Please review.",chat,login,neutral,login,0.6183607220167303,negative,0.4030345527698403,True,review
+F00488,"Today, Signing in with my login was terrible and caused trouble.",review,login,negative,login,0.6534547088896511,negative,0.4653005873841206,True,review
+F00489,"Today, A payment through the service worked well and satisfied me.",social,payments,positive,fees,0.5173105121472976,positive,0.5664252900535421,True,review
+F00491,"Today, A payment through the service was terrible and caused trouble. Thank you.",chat,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F00492,"Today, A payment through the service was terrible and caused trouble.",review,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F00494,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F00501,"Today, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F00508,"In my experience, Signing in with my login requires clarification from someone.",social,login,neutral,login,0.5784912601447446,negative,0.3730592613240129,True,review
+F00509,"In my experience, Paying this service fee worked well and satisfied me.",chat,fees,positive,fees,0.8648698632723127,positive,0.5536439548012309,True,review
+F00513,"Recently, A payment through the service was terrible and caused trouble.",review,payments,negative,fees,0.6906170067936006,negative,0.48886241888647886,True,review
+F00514,"Recently, Paying this service fee worked well and satisfied me. Thank you.",review,fees,positive,fees,0.8239959035251212,positive,0.4710480667730606,True,review
+F00515,"In my experience, Submitting a loan application worked well and satisfied me. Thank you.",chat,applications,positive,applications,0.7782609596535587,positive,0.4444097059926888,True,review
+F00518,"Recently, Submitting a loan application worked well and satisfied me. Thank you.",review,applications,positive,applications,0.8219817650165727,positive,0.46757134624578345,True,review
+F00520,"Recently, Signing in with my login was terrible and caused trouble. Thank you.",social,login,negative,login,0.6212638475107419,negative,0.46702075831669965,True,review
+F00525,"Recently, Submitting a loan application was terrible and caused trouble. Please review.",social,applications,negative,applications,0.9142336535673854,negative,0.4760828931183503,True,review
+F00528,"Recently, Signing in with my login requires clarification from someone.",review,login,neutral,login,0.6850129595590008,negative,0.38185074556329124,True,review
+F00530,"Today, Paying this service fee requires clarification from someone. Please review.",social,fees,neutral,fees,0.9261430497560866,negative,0.40747128515487796,True,review
+F00533,"Recently, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.9185298608850226,negative,0.48202232224086566,True,review
+F00540,"In my experience, A payment through the service worked well and satisfied me. Please review.",review,payments,positive,fees,0.40801377349854356,positive,0.43263389212913145,True,review
+F00541,"Today, A payment through the service requires clarification from someone.",review,payments,neutral,fees,0.5971442825684715,negative,0.3988642904932293,True,review
+F00547,"Recently, Signing in with my login requires clarification from someone.",social,login,neutral,login,0.6850129595590008,negative,0.38185074556329124,True,review
+F00550,"Today, Contacting customer support requires clarification from someone.",social,support,neutral,support,0.879601618772745,negative,0.40140927906798224,True,review
+F00554,"Recently, Paying this service fee was terrible and caused trouble.",review,fees,negative,fees,0.9531532724775886,negative,0.4713504380927779,True,review
+F00560,"In my experience, Signing in with my login requires clarification from someone. Please review.",chat,login,neutral,login,0.5377697555108353,negative,0.3918731565589962,True,review
+F00568,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",review,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F00569,"In my experience, Submitting a loan application requires clarification from someone.",social,applications,neutral,applications,0.9127306969822839,negative,0.370879840350392,True,review
+F00575,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F00585,"In my experience, Contacting customer support was terrible and caused trouble.",social,support,negative,support,0.6584348293274044,positive,0.5046055104851151,True,review
+F00586,"Recently, Signing in with my login worked well and satisfied me.",chat,login,positive,login,0.6021328943781852,positive,0.6177294387106053,True,review
+F00587,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",review,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F00588,"In my experience, A payment through the service worked well and satisfied me. Thank you.",review,payments,positive,fees,0.4114116005359424,positive,0.4337053554155651,True,review
+F00594,"Today, A payment through the service was terrible and caused trouble. Please review.",review,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F00597,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",social,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F00598,"In my experience, Signing in with my login worked well and satisfied me. Please review.",social,login,positive,login,0.4797919062791789,positive,0.45840034570116117,True,review
+F00599,"Today, Signing in with my login was terrible and caused trouble. Thank you.",chat,login,negative,login,0.6104683426545368,negative,0.4777395460766004,True,review
+F00600,"In my experience, Paying this service fee was terrible and caused trouble. Please review.",social,fees,negative,fees,0.8647627667593383,negative,0.4737468484405422,True,review
+F00605,"In my experience, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F00609,"Recently, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.9185298608850226,negative,0.48202232224086566,True,review
+F00610,"In my experience, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F00613,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F00615,"Today, Submitting a loan application worked well and satisfied me. Please review.",review,applications,positive,applications,0.8459213392824637,positive,0.4524214451689732,True,review
+F00616,"Recently, Contacting customer support requires clarification from someone. Please review.",review,support,neutral,support,0.6612965181120563,negative,0.41087657540826317,True,review
+F00621,"In my experience, Submitting a loan application requires clarification from someone. Please review.",chat,applications,neutral,applications,0.8814300866364724,negative,0.3913642832985181,True,review
+F00625,"Today, Contacting customer support worked well and satisfied me. Please review.",chat,support,positive,support,0.4812550967701555,positive,0.5065030728773222,True,review
+F00626,"In my experience, Submitting a loan application was terrible and caused trouble. Please review.",chat,applications,negative,applications,0.8701807183473401,negative,0.4673690389845469,True,review
+F00628,"In my experience, Signing in with my login was terrible and caused trouble. Thank you.",social,login,negative,login,0.5451842570523476,negative,0.4526217602131132,True,review
+F00634,"Today, Paying this service fee worked well and satisfied me.",social,fees,positive,fees,0.9106148936411513,positive,0.5844254363056497,True,review
+F00635,"Recently, Signing in with my login worked well and satisfied me. Thank you.",chat,login,positive,login,0.5284369236145424,positive,0.492823811217711,True,review
+F00636,"Recently, A payment through the service requires clarification from someone. Please review.",chat,payments,neutral,fees,0.5183352601941332,negative,0.413004443710156,True,review
+F00637,"In my experience, Paying this service fee worked well and satisfied me. Please review.",chat,fees,positive,fees,0.7839640223724291,positive,0.44529621686816084,True,review
+F00639,"Recently, A payment through the service worked well and satisfied me. Please review.",chat,payments,positive,fees,0.4367803053997521,positive,0.4553860230403278,True,review
+F00642,"In my experience, Contacting customer support was terrible and caused trouble.",social,support,negative,support,0.6584348293274044,positive,0.5046055104851151,True,review
+F00646,"Recently, Signing in with my login was terrible and caused trouble.",review,login,negative,login,0.665029257429105,negative,0.45257280677945827,True,review
+F00647,"In my experience, Submitting a loan application was terrible and caused trouble. Please review.",social,applications,negative,applications,0.8701807183473401,negative,0.4673690389845469,True,review
+F00650,"Today, Contacting customer support worked well and satisfied me. Thank you.",review,support,positive,support,0.556343267479736,positive,0.5088753955706392,True,review
+F00656,"Recently, Signing in with my login was terrible and caused trouble.",review,login,negative,login,0.665029257429105,negative,0.45257280677945827,True,review
+F00659,"Recently, Paying this service fee worked well and satisfied me. Please review.",social,fees,positive,fees,0.8258051488797927,positive,0.46955844506423455,True,review
+F00661,"Recently, Contacting customer support requires clarification from someone. Please review.",chat,support,neutral,support,0.6612965181120563,negative,0.41087657540826317,True,review
+F00667,"Recently, Submitting a loan application worked well and satisfied me. Thank you.",review,applications,positive,applications,0.8219817650165727,positive,0.46757134624578345,True,review
+F00669,"Recently, Contacting customer support requires clarification from someone. Please review.",chat,support,neutral,support,0.6612965181120563,negative,0.41087657540826317,True,review
+F00670,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",review,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F00671,"In my experience, Submitting a loan application was terrible and caused trouble.",social,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F00672,"In my experience, Submitting a loan application requires clarification from someone.",review,applications,neutral,applications,0.9127306969822839,negative,0.370879840350392,True,review
+F00678,"Today, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F00679,"Today, Contacting customer support requires clarification from someone. Please review.",social,support,neutral,support,0.6627355123569512,negative,0.4205043372763133,True,review
+F00680,"Recently, Contacting customer support was terrible and caused trouble. Please review.",chat,support,negative,support,0.6351210693326569,positive,0.5044122303012907,True,review
+F00682,"Today, Submitting a loan application worked well and satisfied me. Please review.",chat,applications,positive,applications,0.8459213392824637,positive,0.4524214451689732,True,review
+F00683,"Today, Submitting a loan application requires clarification from someone. Please review.",review,applications,neutral,applications,0.925567679412447,negative,0.4038553681566197,True,review
+F00684,"In my experience, Contacting customer support was terrible and caused trouble. Please review.",review,support,negative,support,0.5812483155634739,positive,0.46710555353195554,True,review
+F00686,"Recently, A payment through the service was terrible and caused trouble.",review,payments,negative,fees,0.6906170067936006,negative,0.48886241888647886,True,review
+F00687,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F00690,"In my experience, Signing in with my login worked well and satisfied me. Please review.",review,login,positive,login,0.4797919062791789,positive,0.45840034570116117,True,review
+F00693,"Today, Signing in with my login worked well and satisfied me.",chat,login,positive,login,0.5913912254091446,positive,0.6017160926799492,True,review
+F00696,"In my experience, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F00702,"Today, A payment through the service was terrible and caused trouble. Thank you.",social,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F00707,"In my experience, Submitting a loan application was terrible and caused trouble. Please review.",review,applications,negative,applications,0.8701807183473401,negative,0.4673690389845469,True,review
+F00714,"Recently, Contacting customer support was terrible and caused trouble. Please review.",review,support,negative,support,0.6351210693326569,positive,0.5044122303012907,True,review
+F00717,"Today, Contacting customer support was terrible and caused trouble. Please review.",chat,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F00721,"Recently, Contacting customer support requires clarification from someone. Thank you.",review,support,neutral,support,0.7238091977112627,negative,0.4053793888160239,True,review
+F00722,"Today, Signing in with my login was terrible and caused trouble. Thank you.",chat,login,negative,login,0.6104683426545368,negative,0.4777395460766004,True,review
+F00730,"Today, Contacting customer support requires clarification from someone. Thank you.",review,support,neutral,support,0.7257997706321896,negative,0.4148703874453508,True,review
+F00732,"Recently, A payment through the service worked well and satisfied me.",review,payments,positive,fees,0.5192893860638874,positive,0.5839048566759438,True,review
+F00733,"Today, Contacting customer support requires clarification from someone.",review,support,neutral,support,0.879601618772745,negative,0.40140927906798224,True,review
+F00739,"Today, Signing in with my login was terrible and caused trouble. Please review.",review,login,negative,login,0.5924428475575672,negative,0.4800878624626502,True,review
+F00743,"Recently, Signing in with my login worked well and satisfied me. Please review.",review,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F00744,"Recently, A payment through the service worked well and satisfied me. Thank you.",review,payments,positive,fees,0.4413594086673136,positive,0.4568427366748863,True,review
+F00745,"In my experience, Signing in with my login was terrible and caused trouble.",chat,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F00755,"Today, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.9117079899270792,negative,0.4952693914646045,True,review
+F00756,"Recently, A payment through the service requires clarification from someone.",chat,payments,neutral,fees,0.6001492495270937,negative,0.39229051075739924,True,review
+F00759,"In my experience, Submitting a loan application worked well and satisfied me.",chat,applications,positive,applications,0.8628790005748785,positive,0.5447348391358497,True,review
+F00763,"Recently, A payment through the service worked well and satisfied me. Please review.",social,payments,positive,fees,0.4367803053997521,positive,0.4553860230403278,True,review
+F00765,"Recently, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6906170067936006,negative,0.48886241888647886,True,review
+F00766,"In my experience, Signing in with my login requires clarification from someone.",chat,login,neutral,login,0.5784912601447446,negative,0.3730592613240129,True,review
+F00767,"Recently, Contacting customer support was terrible and caused trouble. Please review.",chat,support,negative,support,0.6351210693326569,positive,0.5044122303012907,True,review
+F00771,"In my experience, Paying this service fee worked well and satisfied me.",chat,fees,positive,fees,0.8648698632723127,positive,0.5536439548012309,True,review
+F00776,"Recently, Paying this service fee was terrible and caused trouble. Thank you.",review,fees,negative,fees,0.9185298608850226,negative,0.48202232224086566,True,review
+F00782,"Today, Submitting a loan application requires clarification from someone. Thank you.",chat,applications,neutral,applications,0.9093245877676804,negative,0.39963206308677013,True,review
+F00783,"Recently, Contacting customer support was terrible and caused trouble. Please review.",review,support,negative,support,0.6351210693326569,positive,0.5044122303012907,True,review
+F00785,"In my experience, Signing in with my login requires clarification from someone. Please review.",review,login,neutral,login,0.5377697555108353,negative,0.3918731565589962,True,review
+F00788,"Today, Signing in with my login requires clarification from someone. Please review.",chat,login,neutral,login,0.6071700858513884,negative,0.4098744766397007,True,review
+F00792,"In my experience, Paying this service fee requires clarification from someone. Thank you.",social,fees,neutral,fees,0.8877760434824638,negative,0.38918614745565194,True,review
+F00796,"In my experience, Submitting a loan application was terrible and caused trouble. Thank you.",social,applications,negative,applications,0.8470296519457939,negative,0.46483870641447067,True,review
+F00797,"Today, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.9117079899270792,negative,0.4952693914646045,True,review
+F00798,"In my experience, A payment through the service worked well and satisfied me. Thank you.",chat,payments,positive,fees,0.4114116005359424,positive,0.4337053554155651,True,review
+F00799,"Today, A payment through the service was terrible and caused trouble. Please review.",social,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F00802,"In my experience, Contacting customer support worked well and satisfied me. Please review.",social,support,positive,support,0.4458786919152371,positive,0.48862400449238796,True,review
+F00808,"Today, Contacting customer support was terrible and caused trouble. Thank you.",social,support,negative,support,0.6800500846166969,positive,0.4867761245060112,True,review
+F00813,"Today, Paying this service fee worked well and satisfied me. Thank you.",review,fees,positive,fees,0.8241836047080205,positive,0.4565797491203861,True,review
+F00828,"In my experience, Paying this service fee worked well and satisfied me. Thank you.",chat,fees,positive,fees,0.7816139413199801,positive,0.4463879942279137,True,review
+F00829,"Today, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.9186448111119262,negative,0.4927341872354239,True,review
+F00833,"In my experience, Contacting customer support requires clarification from someone. Thank you.",chat,support,neutral,support,0.6121011566860018,negative,0.3909706432749172,True,review
+F00834,"Today, Submitting a loan application requires clarification from someone. Thank you.",review,applications,neutral,applications,0.9093245877676804,negative,0.39963206308677013,True,review
+F00837,"Recently, Contacting customer support requires clarification from someone. Thank you.",review,support,neutral,support,0.7238091977112627,negative,0.4053793888160239,True,review
+F00838,"In my experience, A payment through the service worked well and satisfied me. Please review.",chat,payments,positive,fees,0.40801377349854356,positive,0.43263389212913145,True,review
+F00840,"Today, A payment through the service requires clarification from someone. Please review.",chat,payments,neutral,fees,0.5158994994567684,negative,0.41884044335168774,True,review
+F00843,"Today, A payment through the service requires clarification from someone. Thank you.",review,payments,neutral,fees,0.5419775139218739,negative,0.414316832254185,True,review
+F00844,"Today, Submitting a loan application worked well and satisfied me. Please review.",social,applications,positive,applications,0.8459213392824637,positive,0.4524214451689732,True,review
+F00846,"Today, Contacting customer support was terrible and caused trouble. Please review.",chat,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F00847,"In my experience, Submitting a loan application was terrible and caused trouble.",social,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F00850,"In my experience, Paying this service fee requires clarification from someone. Thank you.",social,fees,neutral,fees,0.8877760434824638,negative,0.38918614745565194,True,review
+F00853,"Today, Submitting a loan application worked well and satisfied me.",chat,applications,positive,applications,0.9082579760780638,positive,0.5712741078937111,True,review
+F00855,"Recently, Submitting a loan application was terrible and caused trouble. Thank you.",review,applications,negative,applications,0.8962947340404134,negative,0.4735720108324755,True,review
+F00865,"Today, Submitting a loan application worked well and satisfied me. Thank you.",social,applications,positive,applications,0.8232034387376733,positive,0.45371525974115795,True,review
+F00868,"In my experience, Signing in with my login was terrible and caused trouble.",review,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F00883,"Recently, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6906170067936006,negative,0.48886241888647886,True,review
+F00884,"In my experience, Paying this service fee worked well and satisfied me. Please review.",social,fees,positive,fees,0.7839640223724291,positive,0.44529621686816084,True,review
+F00889,"Recently, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6785368821202092,positive,0.5051749120276587,True,review
+F00914,"Today, Signing in with my login requires clarification from someone. Thank you.",chat,login,neutral,login,0.6253281731755183,negative,0.4060184264917051,True,review
+F00919,"In my experience, A payment through the service worked well and satisfied me. Thank you.",social,payments,positive,fees,0.4114116005359424,positive,0.4337053554155651,True,review
+F00921,"Today, Submitting a loan application was terrible and caused trouble.",review,applications,negative,applications,0.9452784357301838,negative,0.4735255952998774,True,review
+F00927,"In my experience, Submitting a loan application requires clarification from someone.",chat,applications,neutral,applications,0.9127306969822839,negative,0.370879840350392,True,review
+F00929,"Today, Contacting customer support was terrible and caused trouble. Please review.",social,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F00933,"In my experience, A payment through the service was terrible and caused trouble. Please review.",review,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F00934,"In my experience, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F00939,"In my experience, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F00943,"Today, A payment through the service requires clarification from someone.",social,payments,neutral,fees,0.5971442825684715,negative,0.3988642904932293,True,review
+F00944,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F00949,"Today, Contacting customer support was terrible and caused trouble. Please review.",chat,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F00952,"In my experience, Contacting customer support requires clarification from someone.",chat,support,neutral,support,0.6896856322876432,negative,0.370321407499721,True,review
+F00975,"Today, Paying this service fee worked well and satisfied me. Thank you.",review,fees,positive,fees,0.8241836047080205,positive,0.4565797491203861,True,review
+F00976,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",review,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F00984,"Today, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.9186448111119262,negative,0.4927341872354239,True,review
+F00986,"In my experience, Paying this service fee requires clarification from someone. Thank you.",review,fees,neutral,fees,0.8877760434824638,negative,0.38918614745565194,True,review
+F00988,"In my experience, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F00990,"In my experience, Submitting a loan application was terrible and caused trouble.",chat,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F00991,"Today, Submitting a loan application worked well and satisfied me. Thank you.",chat,applications,positive,applications,0.8232034387376733,positive,0.45371525974115795,True,review
+F00992,"Today, A payment through the service was terrible and caused trouble. Please review.",social,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F00996,"Recently, Signing in with my login worked well and satisfied me. Thank you.",social,login,positive,login,0.5284369236145424,positive,0.492823811217711,True,review
+F00997,"Recently, Paying this service fee worked well and satisfied me. Thank you.",chat,fees,positive,fees,0.8239959035251212,positive,0.4710480667730606,True,review
+F00998,"In my experience, Contacting customer support worked well and satisfied me. Please review.",social,support,positive,support,0.4458786919152371,positive,0.48862400449238796,True,review
+F01003,"In my experience, Submitting a loan application was terrible and caused trouble. Please review.",review,applications,negative,applications,0.8701807183473401,negative,0.4673690389845469,True,review
+F01006,"Today, Paying this service fee was terrible and caused trouble.",social,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01009,"In my experience, A payment through the service was terrible and caused trouble.",review,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F01014,"In my experience, Submitting a loan application was terrible and caused trouble.",social,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F01022,"Today, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.6104683426545368,negative,0.4777395460766004,True,review
+F01030,"In my experience, Paying this service fee worked well and satisfied me. Please review.",social,fees,positive,fees,0.7839640223724291,positive,0.44529621686816084,True,review
+F01032,"Recently, Submitting a loan application was terrible and caused trouble. Please review.",review,applications,negative,applications,0.9142336535673854,negative,0.4760828931183503,True,review
+F01033,"In my experience, Contacting customer support was terrible and caused trouble.",review,support,negative,support,0.6584348293274044,positive,0.5046055104851151,True,review
+F01041,"In my experience, Contacting customer support was terrible and caused trouble.",social,support,negative,support,0.6584348293274044,positive,0.5046055104851151,True,review
+F01042,"In my experience, Contacting customer support requires clarification from someone. Please review.",review,support,neutral,support,0.5592035232681389,negative,0.3958202381957354,True,review
+F01045,"In my experience, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.5451842570523476,negative,0.4526217602131132,True,review
+F01049,"In my experience, A payment through the service requires clarification from someone. Thank you.",social,payments,neutral,fees,0.4897027454774147,negative,0.3992069050723156,True,review
+F01053,"Today, Signing in with my login requires clarification from someone. Please review.",review,login,neutral,login,0.6071700858513884,negative,0.4098744766397007,True,review
+F01055,"Recently, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.665029257429105,negative,0.45257280677945827,True,review
+F01056,"Today, A payment through the service was terrible and caused trouble. Thank you.",review,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F01059,"Today, Submitting a loan application requires clarification from someone.",review,applications,neutral,applications,0.9551152566394899,negative,0.3827054176168415,True,review
+F01065,"In my experience, Submitting a loan application requires clarification from someone. Thank you.",chat,applications,neutral,applications,0.859371827434604,negative,0.38753450727567706,True,review
+F01069,"Today, A payment through the service was terrible and caused trouble. Thank you.",review,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F01073,"Recently, Submitting a loan application was terrible and caused trouble.",chat,applications,negative,applications,0.9447025013994593,negative,0.4617680722793572,True,review
+F01078,"In my experience, Contacting customer support requires clarification from someone. Thank you.",social,support,neutral,support,0.6121011566860018,negative,0.3909706432749172,True,review
+F01081,"Today, Signing in with my login requires clarification from someone.",review,login,neutral,login,0.6732992862620112,negative,0.38966458875748616,True,review
+F01086,"Today, Paying this service fee was terrible and caused trouble. Please review.",social,fees,negative,fees,0.9117079899270792,negative,0.4952693914646045,True,review
+F01087,"Recently, Paying this service fee worked well and satisfied me. Please review.",review,fees,positive,fees,0.8258051488797927,positive,0.46955844506423455,True,review
+F01093,"In my experience, Submitting a loan application worked well and satisfied me. Thank you.",chat,applications,positive,applications,0.7782609596535587,positive,0.4444097059926888,True,review
+F01097,"In my experience, Submitting a loan application was terrible and caused trouble. Thank you.",social,applications,negative,applications,0.8470296519457939,negative,0.46483870641447067,True,review
+F01103,"In my experience, A payment through the service requires clarification from someone.",chat,payments,neutral,fees,0.5270060562014728,negative,0.3830421983823373,True,review
+F01106,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",review,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F01120,"Recently, Paying this service fee requires clarification from someone.",chat,fees,neutral,fees,0.9647579963115563,negative,0.37879695288159115,True,review
+F01132,"Recently, Submitting a loan application requires clarification from someone.",chat,applications,neutral,applications,0.9546139707609208,negative,0.376250179039315,True,review
+F01138,"Recently, Signing in with my login requires clarification from someone. Please review.",chat,login,neutral,login,0.6183607220167303,negative,0.4030345527698403,True,review
+F01143,"Recently, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.665029257429105,negative,0.45257280677945827,True,review
+F01144,"Recently, Signing in with my login worked well and satisfied me.",chat,login,positive,login,0.6021328943781852,positive,0.6177294387106053,True,review
+F01150,"Today, Submitting a loan application requires clarification from someone. Thank you.",chat,applications,neutral,applications,0.9093245877676804,negative,0.39963206308677013,True,review
+F01153,"Today, Contacting customer support worked well and satisfied me. Please review.",chat,support,positive,support,0.4812550967701555,positive,0.5065030728773222,True,review
+F01154,"In my experience, Signing in with my login was terrible and caused trouble. Please review.",review,login,negative,login,0.5288691966997205,negative,0.45492971216756917,True,review
+F01168,"In my experience, A payment through the service requires clarification from someone. Please review.",chat,payments,neutral,fees,0.46843817165819174,negative,0.403278153119701,True,review
+F01171,"Today, Submitting a loan application requires clarification from someone. Thank you.",chat,applications,neutral,applications,0.9093245877676804,negative,0.39963206308677013,True,review
+F01172,"Today, Contacting customer support was terrible and caused trouble. Please review.",review,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F01173,"Today, Paying this service fee was terrible and caused trouble.",chat,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01178,"Today, Paying this service fee was terrible and caused trouble.",review,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01182,"Recently, Contacting customer support requires clarification from someone. Please review.",social,support,neutral,support,0.6612965181120563,negative,0.41087657540826317,True,review
+F01188,"Today, A payment through the service was terrible and caused trouble. Thank you.",chat,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F01189,"Recently, Paying this service fee was terrible and caused trouble.",social,fees,negative,fees,0.9531532724775886,negative,0.4713504380927779,True,review
+F01193,"In my experience, A payment through the service worked well and satisfied me.",review,payments,positive,fees,0.47129736116229887,positive,0.5380092310919553,True,review
+F01194,"Recently, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.6212638475107419,negative,0.46702075831669965,True,review
+F01201,"Recently, Submitting a loan application was terrible and caused trouble. Thank you.",social,applications,negative,applications,0.8962947340404134,negative,0.4735720108324755,True,review
+F01203,"In my experience, Submitting a loan application worked well and satisfied me. Thank you.",chat,applications,positive,applications,0.7782609596535587,positive,0.4444097059926888,True,review
+F01204,"Recently, A payment through the service worked well and satisfied me. Please review.",chat,payments,positive,fees,0.4367803053997521,positive,0.4553860230403278,True,review
+F01205,"In my experience, Signing in with my login was terrible and caused trouble. Please review.",social,login,negative,login,0.5288691966997205,negative,0.45492971216756917,True,review
+F01207,"Today, Paying this service fee was terrible and caused trouble.",chat,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01210,"In my experience, Submitting a loan application was terrible and caused trouble. Thank you.",review,applications,negative,applications,0.8470296519457939,negative,0.46483870641447067,True,review
+F01212,"In my experience, Submitting a loan application worked well and satisfied me. Thank you.",chat,applications,positive,applications,0.7782609596535587,positive,0.4444097059926888,True,review
+F01213,"Recently, Submitting a loan application was terrible and caused trouble. Please review.",social,applications,negative,applications,0.9142336535673854,negative,0.4760828931183503,True,review
+F01215,"Recently, Paying this service fee was terrible and caused trouble.",chat,fees,negative,fees,0.9531532724775886,negative,0.4713504380927779,True,review
+F01220,"Today, Signing in with my login was terrible and caused trouble. Thank you.",social,login,negative,login,0.6104683426545368,negative,0.4777395460766004,True,review
+F01222,"In my experience, Paying this service fee was terrible and caused trouble. Please review.",review,fees,negative,fees,0.8647627667593383,negative,0.4737468484405422,True,review
+F01225,"Recently, A payment through the service worked well and satisfied me.",review,payments,positive,fees,0.5192893860638874,positive,0.5839048566759438,True,review
+F01231,"Today, A payment through the service was terrible and caused trouble.",review,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F01232,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F01234,"In my experience, A payment through the service was terrible and caused trouble. Thank you.",review,payments,negative,fees,0.5924453157495653,negative,0.48994897144713745,True,review
+F01239,"Recently, A payment through the service was terrible and caused trouble. Thank you.",chat,payments,negative,fees,0.6436129535181419,negative,0.4987792449711818,True,review
+F01240,"In my experience, Submitting a loan application was terrible and caused trouble.",review,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F01244,"Recently, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6906170067936006,negative,0.48886241888647886,True,review
+F01247,"In my experience, Submitting a loan application requires clarification from someone.",review,applications,neutral,applications,0.9127306969822839,negative,0.370879840350392,True,review
+F01248,"In my experience, Paying this service fee worked well and satisfied me. Thank you.",social,fees,positive,fees,0.7816139413199801,positive,0.4463879942279137,True,review
+F01254,"Today, Submitting a loan application was terrible and caused trouble. Thank you.",review,applications,negative,applications,0.8972342554651911,negative,0.4834593588106799,True,review
+F01262,"Recently, Signing in with my login requires clarification from someone. Please review.",social,login,neutral,login,0.6183607220167303,negative,0.4030345527698403,True,review
+F01263,"Recently, Paying this service fee was terrible and caused trouble.",social,fees,negative,fees,0.9531532724775886,negative,0.4713504380927779,True,review
+F01264,"In my experience, Contacting customer support requires clarification from someone. Please review.",review,support,neutral,support,0.5592035232681389,negative,0.3958202381957354,True,review
+F01269,"Today, Paying this service fee worked well and satisfied me. Thank you.",chat,fees,positive,fees,0.8241836047080205,positive,0.4565797491203861,True,review
+F01271,"Recently, Submitting a loan application worked well and satisfied me.",social,applications,positive,applications,0.90742697469553,positive,0.5877921285461782,True,review
+F01272,"Recently, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8962947340404134,negative,0.4735720108324755,True,review
+F01277,"In my experience, A payment through the service worked well and satisfied me.",chat,payments,positive,fees,0.47129736116229887,positive,0.5380092310919553,True,review
+F01280,"Today, Signing in with my login worked well and satisfied me. Thank you.",review,login,positive,login,0.5191674995372914,positive,0.47896606327767866,True,review
+F01287,"In my experience, A payment through the service worked well and satisfied me. Thank you.",chat,payments,positive,fees,0.4114116005359424,positive,0.4337053554155651,True,review
+F01289,"Recently, Paying this service fee was terrible and caused trouble. Please review.",social,fees,negative,fees,0.9116990681818459,negative,0.4845530687999165,True,review
+F01302,"Recently, A payment through the service worked well and satisfied me.",social,payments,positive,fees,0.5192893860638874,positive,0.5839048566759438,True,review
+F01309,"Today, Submitting a loan application was terrible and caused trouble.",chat,applications,negative,applications,0.9452784357301838,negative,0.4735255952998774,True,review
+F01316,"Today, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.6534547088896511,negative,0.4653005873841206,True,review
+F01318,"Recently, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.6236108114940696,negative,0.5009241396082561,True,review
+F01327,"Today, Paying this service fee worked well and satisfied me. Please review.",review,fees,positive,fees,0.8258906970027773,positive,0.4551529450909395,True,review
+F01328,"Today, A payment through the service worked well and satisfied me. Thank you.",review,payments,positive,fees,0.4401405117929233,positive,0.44253415716901934,True,review
+F01335,"Today, Submitting a loan application worked well and satisfied me. Thank you.",review,applications,positive,applications,0.8232034387376733,positive,0.45371525974115795,True,review
+F01336,"Today, Contacting customer support requires clarification from someone.",review,support,neutral,support,0.879601618772745,negative,0.40140927906798224,True,review
+F01337,"Recently, Paying this service fee worked well and satisfied me. Please review.",social,fees,positive,fees,0.8258051488797927,positive,0.46955844506423455,True,review
+F01343,"Recently, Signing in with my login worked well and satisfied me. Please review.",review,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F01345,"Recently, Submitting a loan application requires clarification from someone. Thank you.",social,applications,neutral,applications,0.9084485244807715,negative,0.3939295069024668,True,review
+F01348,"Recently, Submitting a loan application was terrible and caused trouble. Thank you.",chat,applications,negative,applications,0.8962947340404134,negative,0.4735720108324755,True,review
+F01350,"In my experience, A payment through the service was terrible and caused trouble. Thank you.",review,payments,negative,fees,0.5924453157495653,negative,0.48994897144713745,True,review
+F01351,"In my experience, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F01356,"In my experience, Contacting customer support worked well and satisfied me. Please review.",social,support,positive,support,0.4458786919152371,positive,0.48862400449238796,True,review
+F01359,"In my experience, Paying this service fee worked well and satisfied me. Thank you.",social,fees,positive,fees,0.7816139413199801,positive,0.4463879942279137,True,review
+F01361,"Recently, Contacting customer support worked well and satisfied me. Thank you.",chat,support,positive,support,0.5547497075827965,positive,0.5260637264411976,True,review
+F01362,"In my experience, A payment through the service worked well and satisfied me. Please review.",review,payments,positive,fees,0.40801377349854356,positive,0.43263389212913145,True,review
+F01365,"Today, A payment through the service requires clarification from someone. Thank you.",review,payments,neutral,fees,0.5419775139218739,negative,0.414316832254185,True,review
+F01367,"Today, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6800500846166969,positive,0.4867761245060112,True,review
+F01372,"In my experience, Paying this service fee was terrible and caused trouble. Please review.",social,fees,negative,fees,0.8647627667593383,negative,0.4737468484405422,True,review
+F01376,"Today, Paying this service fee requires clarification from someone. Thank you.",chat,fees,neutral,fees,0.9324568636629563,negative,0.4029321885172946,True,review
+F01377,"Recently, Signing in with my login requires clarification from someone.",review,login,neutral,login,0.6850129595590008,negative,0.38185074556329124,True,review
+F01379,"In my experience, A payment through the service requires clarification from someone. Please review.",review,payments,neutral,fees,0.46843817165819174,negative,0.403278153119701,True,review
+F01381,"In my experience, Submitting a loan application was terrible and caused trouble.",review,applications,negative,applications,0.9013007089313606,negative,0.4532497319650561,True,review
+F01382,"In my experience, Submitting a loan application worked well and satisfied me.",social,applications,positive,applications,0.8628790005748785,positive,0.5447348391358497,True,review
+F01384,"Today, Contacting customer support was terrible and caused trouble. Please review.",review,support,negative,support,0.6363368396801548,positive,0.4861664304963932,True,review
+F01387,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",review,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F01388,"Today, Submitting a loan application worked well and satisfied me. Please review.",review,applications,positive,applications,0.8459213392824637,positive,0.4524214451689732,True,review
+F01389,"Today, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.6534547088896511,negative,0.4653005873841206,True,review
+F01392,"In my experience, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F01393,"Today, Paying this service fee was terrible and caused trouble. Please review.",chat,fees,negative,fees,0.9117079899270792,negative,0.4952693914646045,True,review
+F01397,"In my experience, A payment through the service worked well and satisfied me. Thank you.",review,payments,positive,fees,0.4114116005359424,positive,0.4337053554155651,True,review
+F01399,"Recently, Contacting customer support worked well and satisfied me.",chat,support,positive,support,0.6543266347897996,positive,0.7226410578109592,False,review
+F01401,"In my experience, Contacting customer support was terrible and caused trouble. Please review.",social,support,negative,support,0.5812483155634739,positive,0.46710555353195554,True,review
+F01405,"Recently, Signing in with my login requires clarification from someone. Please review.",review,login,neutral,login,0.6183607220167303,negative,0.4030345527698403,True,review
+F01407,"In my experience, Signing in with my login worked well and satisfied me.",social,login,positive,login,0.5307003580945769,positive,0.553102731405979,True,review
+F01412,"In my experience, A payment through the service was terrible and caused trouble.",social,payments,negative,fees,0.6289252108333793,negative,0.4800060290389353,True,review
+F01413,"In my experience, Paying this service fee worked well and satisfied me.",chat,fees,positive,fees,0.8648698632723127,positive,0.5536439548012309,True,review
+F01414,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F01415,"Recently, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.665029257429105,negative,0.45257280677945827,True,review
+F01416,"In my experience, Signing in with my login was terrible and caused trouble. Thank you.",review,login,negative,login,0.5451842570523476,negative,0.4526217602131132,True,review
+F01417,"Today, A payment through the service worked well and satisfied me. Please review.",chat,payments,positive,fees,0.4354122237050607,positive,0.441141118951152,True,review
+F01419,"In my experience, Paying this service fee requires clarification from someone. Thank you.",chat,fees,neutral,fees,0.8877760434824638,negative,0.38918614745565194,True,review
+F01433,"Today, Paying this service fee was terrible and caused trouble.",chat,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01437,"In my experience, Submitting a loan application worked well and satisfied me.",review,applications,positive,applications,0.8628790005748785,positive,0.5447348391358497,True,review
+F01447,"Today, Contacting customer support was terrible and caused trouble.",review,support,negative,support,0.7355237340438461,positive,0.5367777465907597,True,review
+F01456,"Recently, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.6236108114940696,negative,0.5009241396082561,True,review
+F01459,"Recently, A payment through the service worked well and satisfied me.",social,payments,positive,fees,0.5192893860638874,positive,0.5839048566759438,True,review
+F01460,"Today, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.6534547088896511,negative,0.4653005873841206,True,review
+F01463,"Today, A payment through the service was terrible and caused trouble. Thank you.",social,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F01464,"In my experience, Submitting a loan application was terrible and caused trouble. Please review.",review,applications,negative,applications,0.8701807183473401,negative,0.4673690389845469,True,review
+F01465,"Today, Paying this service fee was terrible and caused trouble.",chat,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01469,"Today, Signing in with my login was terrible and caused trouble. Please review.",review,login,negative,login,0.5924428475575672,negative,0.4800878624626502,True,review
+F01478,"In my experience, A payment through the service was terrible and caused trouble. Thank you.",social,payments,negative,fees,0.5924453157495653,negative,0.48994897144713745,True,review
+F01479,"Today, Submitting a loan application requires clarification from someone.",social,applications,neutral,applications,0.9551152566394899,negative,0.3827054176168415,True,review
+F01485,"Today, Signing in with my login requires clarification from someone.",social,login,neutral,login,0.6732992862620112,negative,0.38966458875748616,True,review
+F01491,"Today, Submitting a loan application requires clarification from someone.",chat,applications,neutral,applications,0.9551152566394899,negative,0.3827054176168415,True,review
+F01498,"Recently, Signing in with my login was terrible and caused trouble. Please review.",social,login,negative,login,0.6034220833520152,negative,0.4693700668514008,True,review
+F01499,"In my experience, Contacting customer support worked well and satisfied me. Thank you.",social,support,positive,support,0.5119467664605418,positive,0.4903553087514546,True,review
+F01512,"Today, Signing in with my login was terrible and caused trouble. Thank you.",social,login,negative,login,0.6104683426545368,negative,0.4777395460766004,True,review
+F01521,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",review,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F01522,"Recently, Submitting a loan application requires clarification from someone. Please review.",chat,applications,neutral,applications,0.9249016212088771,negative,0.3980600842556246,True,review
+F01523,"Recently, Signing in with my login worked well and satisfied me. Thank you.",social,login,positive,login,0.5284369236145424,positive,0.492823811217711,True,review
+F01528,"Recently, Contacting customer support was terrible and caused trouble.",chat,support,negative,support,0.7341442870563581,positive,0.5578503023093698,True,review
+F01532,"Today, A payment through the service was terrible and caused trouble. Thank you.",chat,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F01535,"Today, A payment through the service was terrible and caused trouble. Please review.",review,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F01545,"Recently, Contacting customer support was terrible and caused trouble. Thank you.",chat,support,negative,support,0.6785368821202092,positive,0.5051749120276587,True,review
+F01546,"Today, Contacting customer support requires clarification from someone. Please review.",review,support,neutral,support,0.6627355123569512,negative,0.4205043372763133,True,review
+F01550,"Recently, A payment through the service worked well and satisfied me. Thank you.",chat,payments,positive,fees,0.4413594086673136,positive,0.4568427366748863,True,review
+F01551,"Today, Contacting customer support worked well and satisfied me.",review,support,positive,support,0.6561130647490064,positive,0.7029543743659086,False,review
+F01556,"Recently, Submitting a loan application worked well and satisfied me.",chat,applications,positive,applications,0.90742697469553,positive,0.5877921285461782,True,review
+F01562,"Today, Signing in with my login requires clarification from someone. Thank you.",review,login,neutral,login,0.6253281731755183,negative,0.4060184264917051,True,review
+F01565,"Today, A payment through the service was terrible and caused trouble. Please review.",social,payments,negative,fees,0.6219473562934148,negative,0.5106711978358934,True,review
+F01572,"Today, Paying this service fee was terrible and caused trouble. Thank you.",review,fees,negative,fees,0.9186448111119262,negative,0.4927341872354239,True,review
+F01574,"Today, Signing in with my login requires clarification from someone. Thank you.",chat,login,neutral,login,0.6253281731755183,negative,0.4060184264917051,True,review
+F01577,"Today, Signing in with my login requires clarification from someone.",chat,login,neutral,login,0.6732992862620112,negative,0.38966458875748616,True,review
+F01578,"Today, Submitting a loan application worked well and satisfied me. Please review.",review,applications,positive,applications,0.8459213392824637,positive,0.4524214451689732,True,review
+F01581,"Today, A payment through the service worked well and satisfied me. Thank you.",review,payments,positive,fees,0.4401405117929233,positive,0.44253415716901934,True,review
+F01590,"Recently, Submitting a loan application was terrible and caused trouble. Please review.",review,applications,negative,applications,0.9142336535673854,negative,0.4760828931183503,True,review
+F01593,"Recently, Paying this service fee was terrible and caused trouble. Please review.",chat,fees,negative,fees,0.9116990681818459,negative,0.4845530687999165,True,review
+F01599,"Today, Paying this service fee was terrible and caused trouble. Thank you.",chat,fees,negative,fees,0.9186448111119262,negative,0.4927341872354239,True,review
+F01608,"Recently, Signing in with my login worked well and satisfied me. Please review.",chat,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F01610,"In my experience, Signing in with my login was terrible and caused trouble. Thank you.",social,login,negative,login,0.5451842570523476,negative,0.4526217602131132,True,review
+F01611,"Today, Paying this service fee requires clarification from someone. Please review.",review,fees,neutral,fees,0.9261430497560866,negative,0.40747128515487796,True,review
+F01612,"Recently, Paying this service fee worked well and satisfied me. Thank you.",chat,fees,positive,fees,0.8239959035251212,positive,0.4710480667730606,True,review
+F01616,"Recently, Contacting customer support worked well and satisfied me. Please review.",chat,support,positive,support,0.4799822166630108,positive,0.5236075844410345,True,review
+F01617,"Recently, Paying this service fee worked well and satisfied me.",chat,fees,positive,fees,0.9105270227302334,positive,0.6018492511040306,True,review
+F01618,"In my experience, Paying this service fee requires clarification from someone. Thank you.",social,fees,neutral,fees,0.8877760434824638,negative,0.38918614745565194,True,review
+F01627,"Recently, Signing in with my login worked well and satisfied me. Please review.",social,login,positive,login,0.5249086512161554,positive,0.49125766155195927,True,review
+F01629,"Today, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F01630,"Recently, Paying this service fee requires clarification from someone. Thank you.",social,fees,neutral,fees,0.9323521575309073,negative,0.3969605948477231,True,review
+F01636,"Today, A payment through the service worked well and satisfied me. Thank you.",social,payments,positive,fees,0.4401405117929233,positive,0.44253415716901934,True,review
+F01637,"In my experience, Signing in with my login requires clarification from someone. Thank you.",chat,login,neutral,login,0.5542784670109344,negative,0.38856938950310926,True,review
+F01639,"Recently, Contacting customer support was terrible and caused trouble.",review,support,negative,support,0.7341442870563581,positive,0.5578503023093698,True,review
+F01647,"Today, Contacting customer support worked well and satisfied me. Thank you.",review,support,positive,support,0.556343267479736,positive,0.5088753955706392,True,review
+F01655,"Today, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F01656,"Recently, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6906170067936006,negative,0.48886241888647886,True,review
+F01661,"Today, Submitting a loan application was terrible and caused trouble.",review,applications,negative,applications,0.9452784357301838,negative,0.4735255952998774,True,review
+F01663,"Today, Contacting customer support worked well and satisfied me. Please review.",review,support,positive,support,0.4812550967701555,positive,0.5065030728773222,True,review
+F01677,"Recently, Contacting customer support requires clarification from someone.",chat,support,neutral,support,0.87849174749595,negative,0.3869705625545845,True,review
+F01682,"Today, A payment through the service was terrible and caused trouble.",chat,payments,negative,fees,0.6888548001345128,negative,0.5002011686745811,True,review
+F01683,"Today, Signing in with my login worked well and satisfied me. Please review.",social,login,positive,login,0.5155846508297464,positive,0.47745210207179417,True,review
+F01688,"In my experience, Contacting customer support requires clarification from someone. Thank you.",review,support,neutral,support,0.6121011566860018,negative,0.3909706432749172,True,review
+F01690,"In my experience, Contacting customer support was terrible and caused trouble. Thank you.",social,support,negative,support,0.6208250325466319,positive,0.4672226511732242,True,review
+F01693,"In my experience, A payment through the service was terrible and caused trouble. Please review.",chat,payments,negative,fees,0.5745090634495686,negative,0.4921493189069669,True,review
+F01708,"Recently, Signing in with my login worked well and satisfied me. Thank you.",review,login,positive,login,0.5284369236145424,positive,0.492823811217711,True,review
+F01715,"In my experience, Signing in with my login requires clarification from someone. Please review.",review,login,neutral,login,0.5377697555108353,negative,0.3918731565589962,True,review
+F01716,"In my experience, Paying this service fee requires clarification from someone. Please review.",social,fees,neutral,fees,0.8802564359433526,negative,0.3932536458364434,True,review
+F01724,"Today, Paying this service fee was terrible and caused trouble.",social,fees,negative,fees,0.9531856104083706,negative,0.4844767740727161,True,review
+F01728,"In my experience, Paying this service fee was terrible and caused trouble. Thank you.",review,fees,negative,fees,0.8726996437269275,negative,0.47116384440777653,True,review
+F01737,"In my experience, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.5673504135018563,negative,0.4397158776484659,True,review
+F01739,"Recently, Contacting customer support requires clarification from someone.",chat,support,neutral,support,0.87849174749595,negative,0.3869705625545845,True,review
+F01742,"In my experience, Submitting a loan application requires clarification from someone.",review,applications,neutral,applications,0.9127306969822839,negative,0.370879840350392,True,review
+F01743,"Recently, A payment through the service was terrible and caused trouble. Please review.",social,payments,negative,fees,0.6236108114940696,negative,0.5009241396082561,True,review
+F01747,"Recently, Signing in with my login was terrible and caused trouble. Thank you.",chat,login,negative,login,0.6212638475107419,negative,0.46702075831669965,True,review
+F01751,"In my experience, Contacting customer support worked well and satisfied me.",social,support,positive,support,0.5682832240358957,positive,0.6400409263248619,True,review
+F01753,"Today, Submitting a loan application requires clarification from someone. Please review.",chat,applications,neutral,applications,0.925567679412447,negative,0.4038553681566197,True,review
+F01757,"Today, Signing in with my login was terrible and caused trouble. Please review.",review,login,negative,login,0.5924428475575672,negative,0.4800878624626502,True,review
+F01759,"Today, Contacting customer support requires clarification from someone. Thank you.",social,support,neutral,support,0.7257997706321896,negative,0.4148703874453508,True,review
+F01766,"Recently, Signing in with my login was terrible and caused trouble.",social,login,negative,login,0.665029257429105,negative,0.45257280677945827,True,review
+F01769,"In my experience, Submitting a loan application worked well and satisfied me. Please review.",chat,applications,positive,applications,0.8035739070532957,positive,0.44340667127432826,True,review
+F01772,"Recently, Paying this service fee was terrible and caused trouble. Thank you.",social,fees,negative,fees,0.9185298608850226,negative,0.48202232224086566,True,review
+F01782,"Today, A payment through the service was terrible and caused trouble. Thank you.",social,payments,negative,fees,0.6421353287054987,negative,0.5085212708797577,True,review
+F01784,"In my experience, Paying this service fee requires clarification from someone.",chat,fees,neutral,fees,0.9236245058273187,negative,0.371902982942692,True,review
+F01786,"In my experience, A payment through the service was terrible and caused trouble. Thank you.",social,payments,negative,fees,0.5924453157495653,negative,0.48994897144713745,True,review
+F01787,"Today, Contacting customer support worked well and satisfied me. Please review.",chat,support,positive,support,0.4812550967701555,positive,0.5065030728773222,True,review
+F01789,"In my experience, Paying this service fee worked well and satisfied me. Thank you.",review,fees,positive,fees,0.7816139413199801,positive,0.4463879942279137,True,review

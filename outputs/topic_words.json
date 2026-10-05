@@ -1,0 +1,52 @@
+{
+  "cluster_0": [
+    "frustrating",
+    "failed",
+    "transfer",
+    "payment",
+    "reset",
+    "password",
+    "thank",
+    "experience"
+  ],
+  "cluster_1": [
+    "work",
+    "did",
+    "disappointed",
+    "interaction",
+    "transaction",
+    "today",
+    "credit",
+    "status"
+  ],
+  "cluster_2": [
+    "confusing",
+    "delayed",
+    "team",
+    "response",
+    "support",
+    "money",
+    "today",
+    "documents"
+  ],
+  "cluster_3": [
+    "login",
+    "account",
+    "screen",
+    "quick",
+    "excellent",
+    "like",
+    "information",
+    "recently"
+  ],
+  "cluster_4": [
+    "fee",
+    "service",
+    "quoted",
+    "charge",
+    "easy",
+    "happy",
+    "statement",
+    "thank"
+  ]
+}

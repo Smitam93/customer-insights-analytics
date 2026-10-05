@@ -1,0 +1,21 @@
+{
+  "seed": 20261004,
+  "feedback_rows": 1800,
+  "test_rows": 487,
+  "session_rows": 6000,
+  "topic_macro_f1": 0.7279461279461279,
+  "topic_majority_baseline_macro_f1": 0.07205387205387206,
+  "sentiment_macro_f1": 0.5331306395794105,
+  "sentiment_majority_baseline_macro_f1": 0.21636615811373094,
+  "review_share": 0.9938398357289527,
+  "scope": "Synthetic templated text only; not real-world NLP accuracy",
+  "limits": [
+    "Held-out phrase family prevents exact sentence-template duplication; vocabulary remains simple.",
+    "No multilingual slang, sarcasm, misspellings, multi-issue feedback or personally identifiable information.",
+    "NMF clusters are exploratory word groups and may reflect sentiment rather than business topics.",
+    "Classifier probabilities are uncalibrated; 0.65 review threshold is illustrative.",
+    "Feedback and website sessions are separate synthetic populations; no identity join is justified.",
+    "Funnel comparisons are descriptive; they do not establish channel or device causality.",
+    "NPS is not inferred from sentiment; actual survey responses would be required."
+  ]
+}

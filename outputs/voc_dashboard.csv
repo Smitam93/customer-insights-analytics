@@ -1,0 +1,5 @@
+predicted_topic,feedback_count,negative_count,review_count,negative_share
+applications,94,67,94,0.7127659574468085
+fees,202,141,202,0.698019801980198
+login,101,73,101,0.7227722772277227
+support,90,26,87,0.28888888888888886
